@@ -1,4 +1,4 @@
-# About
+# hello_app
 
 This is first application for Rails Tutorial.
 
